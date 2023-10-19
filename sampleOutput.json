@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Grace Dean",
+      "title": "Elon Musk told Justine he was the 'alpha' in the relationship at wedding - Business Insider",
+      "description": "Justine Musk said that Elon Musk told her to dye her hair blonder and that she felt like she was being turned into a trophy wife.",
+      "url": "https://www.businessinsider.com/elon-musk-justine-alpha-relationship-wedding-wife-mother-queens-isaacson-2023-9",
+      "urlToImage": "https://i.insider.com/64ff3081a39a1b00190d27f2?width=1200&format=jpeg",
+      "publishedAt": "2023-09-12T10:52:00Z",
+      "content": "Elon Musk used his first dance at his wedding to Justine Musk to establish the nature of their relationship.\r\n\"I am the alpha in this relationship,\" Elon Musk whispered to author Justine Musk, his fi… [+3244 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Breck Dumas",
+      "title": "Ford, GM, Stellantis dealerships brace for potential UAW strike - Fox Business",
+      "description": "As the deadline approaches for Detroit's Big Three automakers to reach new contract agreements with the United Auto Workers or face a strike, dealerships prepare for impact.",
+      "url": "https://www.foxbusiness.com/economy/ford-gm-stellantis-dealerships-brace-potential-uaw-strike",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/kunes-chevrolet.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-12T10:01:17Z",
+      "content": "With only days left for Ford, General Motors and Stellantis to reach new contract agreements with the United Auto Workers or face a potential strike, auto dealerships are bracing themselves for the i… [+4855 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "SOPHIE AUSTIN",
+      "title": "California lawmakers approve the nation’s most sweeping emissions disclosure rules for big business - Yahoo News",
+      "description": "Major corporations from oil and gas companies to retail giants would have to disclose their direct greenhouse gas emissions as well as those that come from...",
+      "url": "https://news.yahoo.com/california-lawmakers-approve-nation-most-012127299.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FaUeTL1VcGmdhaDukhv6dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://media.zenfs.com/en/ap.org/9dd1ae06996081c2ee11db1daf154181",
+      "publishedAt": "2023-09-12T03:48:00Z",
+      "content": "SACRAMENTO, Calif. (AP) Major corporations from oil and gas companies to retail giants would have to disclose their direct greenhouse gas emissions as well as those that come from activities like emp… [+6656 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Huileng Tan",
+      "title": "US consumer's resilient spending may not last: survey - Business Insider",
+      "description": "A Bloomberg survey found that over half of the 526 investors surveyed think US personal consumption will shrink in early 2024.",
+      "url": "https://www.businessinsider.com/us-economy-resilient-consumer-spending-may-not-last-bloomberg-survey-2023-9",
+      "urlToImage": "https://i.insider.com/64ffc2bf112d1600192d5eb5?width=1200&format=jpeg",
+      "publishedAt": "2023-09-12T03:40:00Z",
+      "content": "The US consumer has been holding up the country's economy, but the summer of 2023 may mark their last post-COVID-19 hurrah, a new survey indicates.\r\nBloomberg's Markets Live Pulse survey conducted la… [+2377 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Oracle Stock Falls 5% Following Earnings - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/oracle-stock-earnings-report-q1-2024/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-11T21:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Nvidia, Uber Lead Resilient Stocks In Pressure-Cooker Market - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/nvidia-stock-meta-stock-uber-lead-resilient-stocks-in-pressure-cooker-market/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-11T20:03:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Daniella Genovese",
+      "title": "Dog that escaped Delta Air Lines crate found safe, flies home 3 weeks after disappearing - Fox Business",
+      "description": "The dog that escaped its Delta Air Lines crate in Atlanta three weeks ago is headed back to her family in the Dominican Republic, airline officials said.",
+      "url": "https://www.foxbusiness.com/lifestyle/dog-escaped-delta-air-lines-crate-found-safe-flies-home-3-weeks-after-disappearing",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/Maia-the-dog.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-11T19:52:52Z",
+      "content": "The dog that escaped a Delta Air Lines crate and was lost for three-weeks at one of the world's busiest airports is on its way back home. \r\nDelta said Monday that Maia, the Chihuahua mix, was en rout… [+2490 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Leader Caterpillar Nears Buy Point; Tesla Stock Breaks Out On Upgrade - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-leader-caterpillar-nears-buy-point-tesla-stock-breaks-out/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-11T17:36:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Tom Carter",
+      "title": "Meta is building an AI model as powerful as GPT-4: WSJ - Business Insider",
+      "description": "The Facebook owner is developing an AI model that can go toe-to-toe with OpenAI's most powerful system, unnamed sources told The Wall Street Journal.",
+      "url": "https://www.businessinsider.com/meta-ai-model-powerful-gpt-4-openai-2023-9",
+      "urlToImage": "https://i.insider.com/64fedd7ba39a1b00190cec36?width=1200&format=jpeg",
+      "publishedAt": "2023-09-11T10:32:00Z",
+      "content": "Meta is developing an AI that can go toe-to-toe with OpenAI's most advanced model.\r\nThe Wall Street Journal reported the news, citing unnamed sources, who said the tech giant was working on a new AI … [+2311 chars]"
+    }
+  ]
+}
